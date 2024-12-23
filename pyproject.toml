@@ -5,7 +5,7 @@ authors = [
 ]
 description = "A simple icalendar-based todo manager."
 readme = "README.rst"
-requires-python = ">=3.7"
+requires-python = ">=3.10"
 keywords = ["todo", "task", "icalendar", "cli"]
 license = {text = "ISC"}
 classifiers = [
@@ -15,8 +15,6 @@ classifiers = [
     "License :: OSI Approved :: ISC License (ISCL)",
     "Operating System :: POSIX",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.8",
-    "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
